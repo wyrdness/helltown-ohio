@@ -1,0 +1,337 @@
+{
+  "category": "URBAN_LEGEND",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/helltown-ohio",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "helltown-ohio",
+    "name": "Helltown, Ohio",
+    "aliases": [
+      {
+        "name": "Boston Township",
+        "type": "official",
+        "meaning": "Actual name of the area"
+      },
+      {
+        "name": "Boston Mills",
+        "type": "official",
+        "meaning": "Former village in the township"
+      }
+    ],
+    "category": "URBAN_LEGEND",
+    "subcategory": "Location / Abandoned Town",
+    "tags": [
+      "urban-legend",
+      "abandoned-town",
+      "ohio",
+      "satanic-panic",
+      "debunked",
+      "folklore"
+    ],
+    "status": "debunked",
+    "description": {
+      "summary": "Boston Township, Ohio (nicknamed 'Helltown'), a cluster of urban legends surrounding an abandoned town forcibly evacuated in 1974 for Cuyahoga Valley National Park. Legends are largely debunked.",
+      "full": "Helltown refers to Boston Township in Summit County, Ohio, and the cluster of urban legends that grew around it. In 1974, the National Park Service forcibly bought out residents to expand the Cuyahoga Valley National Recreation Area (now National Park), leaving numerous abandoned buildings. This abandonment spawned legends including a satanic church, chemical spill mutations, escaped mental patients, ghostly school bus, slaughterhouse horrors, and 'Python Patterson' (escaped giant snake). Reality: the area was simply abandoned for park expansion. No satanic activity, chemical spills, or supernatural events have been verified. The 'End of the Road' sign was merely a park boundary marker. Stanford House, a focal point of legends, was demolished in 2016. Stanford Haunted Trail, an actual Halloween attraction, may have fueled some legends. Multiple investigations found no evidence of paranormal activity. Status: Mostly debunked urban legends built on a foundation of actual abandonment."
+    },
+    "etymology": {
+      "origin": "Nickname 'Helltown' emerged from locals and legend-trippers, origin unclear but likely reflects the eerie abandoned nature and dark legends.",
+      "meaning": "Implies a cursed or evil place",
+      "first_use": "Likely 1980s-1990s as legends spread"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "URBAN_LEGEND",
+      "type": "Location-based legend cluster",
+      "subtype": "Abandoned town",
+      "variant": "Satanic panic era"
+    },
+    "related_phenomena": [
+      {
+        "id": "satanic-panic",
+        "name": "Satanic Panic",
+        "relationship": "cultural_context",
+        "description": "1980s-90s moral panic about satanic ritual abuse"
+      },
+      {
+        "id": "urban-legends",
+        "name": "Urban Legends (general)",
+        "relationship": "broader_category",
+        "description": "Modern folklore and legend cycles"
+      },
+      {
+        "id": "haunted-places",
+        "name": "Haunted Places",
+        "relationship": "related",
+        "description": "Abandoned locations attracting ghost stories"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "geographic": {
+      "location": {
+        "description": "Boston Township, Summit County, Ohio (part of Cuyahoga Valley National Park)",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "Summit County",
+        "coordinates": {
+          "latitude": 41.2492,
+          "longitude": -81.5651,
+          "precision": "approximate"
+        }
+      },
+      "features": [
+        {
+          "name": "Abandoned buildings",
+          "description": "Houses and structures left from 1974 National Park Service buyout",
+          "status": "Most demolished over time"
+        },
+        {
+          "name": "'End of the Road' sign",
+          "description": "Road barrier sign that became focal point of legends",
+          "reality": "Simply marked park boundary/closed road"
+        },
+        {
+          "name": "Stanford House",
+          "description": "Abandoned mansion, subject of many legends",
+          "status": "Demolished 2016"
+        },
+        {
+          "name": "Boston Cemetery",
+          "description": "Cemetery that remains in area",
+          "status": "Active, maintained"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "legend": "Satanic church",
+        "description": "Claims of a church taken over by satanists, with inverted cross and ritual activity",
+        "reality": "Mother of God Church was a normal church; inverted cross legend appears fabricated",
+        "status": "debunked"
+      },
+      {
+        "legend": "Chemical spill mutations",
+        "description": "Government chemical spill created mutated humans living in woods",
+        "reality": "No documented chemical spills in the area",
+        "status": "debunked"
+      },
+      {
+        "legend": "Escaped mental patients",
+        "description": "Former mental institution nearby; patients escaped and roam the area",
+        "reality": "No mental institution in Helltown; nearest was miles away with no escape incident",
+        "status": "debunked"
+      },
+      {
+        "legend": "Ghost school bus",
+        "description": "Abandoned school bus with ghosts of murdered children",
+        "reality": "Bus may have existed as abandoned vehicle; no murders documented",
+        "status": "debunked"
+      },
+      {
+        "legend": "Slaughterhouse",
+        "description": "Satanic cult slaughterhouse where rituals were performed",
+        "reality": "No evidence of slaughterhouse or ritual activity",
+        "status": "debunked"
+      },
+      {
+        "legend": "Python Patterson",
+        "description": "Giant python escaped and living in area",
+        "reality": "No credible sightings or evidence",
+        "status": "debunked"
+      },
+      {
+        "legend": "Crybaby Bridge",
+        "description": "Bridge where baby's cries can be heard",
+        "reality": "Common urban legend motif applied to local bridge",
+        "status": "debunked"
+      }
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Specific to Boston Township, Summit County, Ohio, now part of Cuyahoga Valley National Park",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Ohio", "Summit County"]
+    },
+    "temporal": {
+      "actual_event": {
+        "date": "1974",
+        "event": "National Park Service buyout",
+        "context": "Residents forcibly bought out for Cuyahoga Valley National Recreation Area expansion"
+      },
+      "legend_emergence": {
+        "period": "1980s-1990s",
+        "context": "Urban legends developed as abandoned buildings attracted curiosity and trespassers"
+      },
+      "peak_legend_period": {
+        "period": "1990s-2000s",
+        "context": "Legends spread via word of mouth and early internet"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "actual_history": "Boston Township was a rural community that became part of federal park expansion in 1974. The National Park Service used eminent domain to purchase properties for the Cuyahoga Valley National Recreation Area (later National Park).",
+      "legend_development": "The eerie abandoned buildings, combined with 1980s-90s satanic panic, created fertile ground for urban legends. Actual Halloween attraction (Stanford Haunted Trail) may have blurred fiction/reality."
+    },
+    "timeline": [
+      {
+        "date": "1974",
+        "event": "National Park Service buyout",
+        "significance": "Residents forced to sell properties; many buildings abandoned",
+        "source": "National Park Service records"
+      },
+      {
+        "date": "1980s-1990s",
+        "event": "Legends emerge",
+        "significance": "Urban legends develop around abandoned structures during satanic panic era",
+        "source": "Local folklore"
+      },
+      {
+        "date": "1990s-2000s",
+        "event": "Stanford Haunted Trail operates",
+        "significance": "Actual Halloween haunted attraction may have fueled legends",
+        "source": "Local records"
+      },
+      {
+        "date": "2000s",
+        "event": "Internet spreads legends",
+        "significance": "Creepypasta and paranormal websites popularize Helltown stories",
+        "source": "Online forums and websites"
+      },
+      {
+        "date": "2016",
+        "event": "Stanford House demolished",
+        "significance": "Major focal point of legends destroyed by National Park Service",
+        "source": "News reports"
+      }
+    ],
+    "investigations": [
+      {
+        "investigator": "Various paranormal researchers",
+        "period": "2000s-2010s",
+        "findings": "No evidence of satanic activity, chemical spills, or paranormal phenomena"
+      },
+      {
+        "investigator": "Local journalists",
+        "period": "Various",
+        "findings": "Legends traced to misinterpretation of abandonment and deliberate fabrication"
+      }
+    ]
+  },
+
+  "debunking": {
+    "satanic_church": {
+      "claim": "Church with inverted cross used for satanic rituals",
+      "reality": "Mother of God Church was a normal church. No evidence of satanic use. May have been abandoned building repurposed for haunted attraction.",
+      "evidence": "Church records, lack of any police reports or investigations"
+    },
+    "chemical_spill": {
+      "claim": "Government chemical spill created mutants",
+      "reality": "No documented chemical spills in Boston Township. No EPA records or cleanup sites.",
+      "evidence": "EPA databases, lack of historical records"
+    },
+    "mental_patients": {
+      "claim": "Escaped mental patients roam the area",
+      "reality": "No mental institution was ever located in Helltown. Nearest facilities were miles away with no documented escapes.",
+      "evidence": "Historical records, facility locations"
+    },
+    "murders": {
+      "claim": "Various murders (school bus children, ritual victims)",
+      "reality": "No police records of murders in the area matching legend descriptions",
+      "evidence": "Police records, newspaper archives"
+    }
+  },
+
+  "theories": {
+    "folklore": [
+      {
+        "name": "Urban legend cycle",
+        "description": "Abandoned location attracted typical urban legend motifs (satanic cults, mutants, ghosts)",
+        "proponents": ["Folklorists"],
+        "evidence_cited": ["Similar legends in other abandoned areas", "Satanic panic context"]
+      },
+      {
+        "name": "Haunted attraction bleed-over",
+        "description": "Stanford Haunted Trail's fictional scenarios became conflated with reality",
+        "proponents": ["Researchers"],
+        "evidence_cited": ["Haunted attraction operated in area", "Legends match horror tropes"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misinterpretation and fabrication",
+        "description": "Abandoned buildings from legitimate park expansion misinterpreted; legends deliberately fabricated for thrills",
+        "proponents": ["Skeptics", "local historians"],
+        "evidence_cited": ["Documented park buyout", "No evidence for any legend claims", "Common pattern in urban legends"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "impact": {
+      "local": "Boston Township and Cuyahoga Valley National Park became destination for legend-trippers and thrill-seekers, sometimes causing trespassing issues",
+      "internet": "Helltown became popular subject of creepypasta, YouTube videos, and paranormal blogs"
+    },
+    "popular_culture": {
+      "media": [
+        "Numerous YouTube videos exploring 'Helltown'",
+        "Creepypasta stories",
+        "Paranormal TV show investigations",
+        "Local news debunking segments"
+      ]
+    }
+  },
+
+  "current_status": {
+    "area": "Boston Township is part of Cuyahoga Valley National Park. Most abandoned buildings have been demolished. Area is public parkland.",
+    "legends": "Widely recognized as debunked urban legends, though still circulate online and attract curious visitors",
+    "access": "Public park with normal access rules. Trespassing on closed areas prohibited."
+  },
+
+  "sources": [
+    {
+      "id": "nps-records",
+      "type": "government records",
+      "title": "Cuyahoga Valley National Park historical records",
+      "source": "National Park Service",
+      "date": "1974-present"
+    },
+    {
+      "id": "local-news",
+      "type": "news articles",
+      "title": "Various debunking articles on Helltown legends",
+      "source": "Cleveland and Akron area newspapers",
+      "date": "1990s-2010s"
+    },
+    {
+      "id": "online-investigations",
+      "type": "web resources",
+      "title": "Urban legend investigations and debunking",
+      "source": "Various paranormal and skeptical websites",
+      "date": "2000s-present"
+    }
+  ]
+}
